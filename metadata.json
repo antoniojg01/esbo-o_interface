@@ -1,0 +1,7 @@
+{
+  "name": "Orbital Graph Visualizer",
+  "description": "A sophisticated 3D graph interface that transforms abstract diagrams into interactive orbital structures with clickable functional nodes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
